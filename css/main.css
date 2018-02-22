@@ -716,5 +716,12 @@ input[type="email"], input[type="number"], input[type="search"], input[type="tex
   box-shadow: none;
   box-sizing: border-box;
 }
-
+.sec{
+  padding: 5px 10px;
+  background-color: red;
+  color: #ffffff;
+  margin: 0 20px 20px 0;
+  display: inline-block;
+  text-align: center;
+}
 /*# sourceMappingURL=main.css.map */
